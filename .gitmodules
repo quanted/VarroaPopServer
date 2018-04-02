@@ -1,0 +1,3 @@
+[submodule "VarroaPopWrapper"]
+	path = VarroaPopWrapper
+	url = https://github.com/quanted/VarroaPopWrapper.git
