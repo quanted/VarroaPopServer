@@ -1,5 +1,6 @@
 #### Code to start an openCPU-based RESTful API for VarroaPopWrapper
 
-library(VarroaPopWrapper)
+library(devtools)
+install_github("quanted/VarroaPopWrapper",ref="master")
 library(opencpu)
-ocpu_start_app("VarroaPopWrapper")
+ocpu_start_app("quanted/VarroaPopWrapper")
