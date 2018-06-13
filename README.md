@@ -1,5 +1,6 @@
 # VarroaPopServer
 A RESTful API to interact with the VarroaPop honey bee colony model via an R wrapper
+Developed by: Jeffrey Minucci (www.github.com/JeffreyMinucci)
 
 To run the API server:
 
@@ -15,3 +16,7 @@ Windows:
 	or 'Phoenix' (AZ)
 
 5) ctrl+C to quit server OR if running on silent, kill the Rscript.exe process
+
+
+For a basic VarroaPop R wrapper which can be run locally, see:
+https://github.com/quanted/VarroaPopWrapper
